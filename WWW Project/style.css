@@ -1,0 +1,128 @@
+body{
+	background-color: Gainsboro;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+
+a{
+	color: blue;
+	font-weight: bold;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 4.5em;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 2em;
+}
+
+h4{
+	font-weight: bold;
+}
+
+h6{
+	font-weight: bold;
+	color: red;
+}
+
+p{
+	margin: 10px;
+	padding: 10px;
+}
+
+form{
+	margin: 20px;
+	padding: 20px;
+}
+
+textarea{
+	resize: none;
+}
+
+#container{
+	background-color: LimeGreen;
+	margin-left: auto;
+	margin-right: auto;
+	width: 950px;
+	border: 2px solid blue;
+}
+
+#logo{
+	text-align: left;
+	float: left;
+	padding: 2px;
+}
+
+#logo2{
+	text-align: right;
+	float: right;
+	padding: 2px;
+}
+
+#header{
+	background-color: MediumSpringGreen;
+	color: Blue;
+	border: 2px solid blue;
+	text-align: center;
+	margin: 0;
+}
+
+#content_header{
+	padding: 10px;
+	background-color: LimeGreen;
+	color: Blue;
+	text-align: center;
+}
+
+#picture{
+	text-align: center;
+	border: 5px solid Blue;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: outset;
+}
+
+#about{
+	width: 500px;
+	background-color: Honeydew;
+	color: Black;
+	border: 2px solid blue;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+#form{
+	width: 500px;
+	background-color: Honeydew;
+	color: Black;
+	font-weight: bold;
+	border: 2px solid blue;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+#content_footer{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: Honeydew;
+	background-color: Honeydew;
+	width: 400px;
+	border: 5px solid red;
+	border-style: outset;
+}
+
+#footer{
+	background-color: DimGrey;
+	color: white;
+	text-align: right;
+	clear: both;
+	padding: 10px;
+}
+
